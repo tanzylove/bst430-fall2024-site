@@ -69,7 +69,7 @@ library(tidyverse)
 
 Load the `nycbnb` data.
 
-```{r load-packages, message = FALSE}
+```{r load-data, message = FALSE}
 nycbnb = read_csv("https://urmc-bst.github.io/bst430-fall2021-site/hw_lab_instruction/hw-01-airbnb/data/nylistings.csv")
 ```
 
